@@ -3,7 +3,7 @@
 Smart-Cane : Canne électronique intelligente et abordable pour les personnes aveugles ou malvoyantes
 
 Projet final de fin de formation pour l'obtention du diplome de licence professionnelle option Génie Télécoms et TIC
-
+[Voir le document PDF](/documents/memoire.pdf)
 <!-- visuel -->
 ![banner](/images/VISUEL.jpg)
 
