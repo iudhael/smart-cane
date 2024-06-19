@@ -63,7 +63,7 @@ quelques centimètres au-dessus de l’embout ;
   - L’embout : il abrite le détecteur de présence d’eau.
 
 images
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![banner](/images/differentespartie.png)
 
 
 ## What next?
