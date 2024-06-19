@@ -24,8 +24,8 @@ The white cane is an indispensable accessory to help blind people avoid obstacle
 ## Background
 
 * Problème à résoudre : Les personnes aveugles ou malvoyantes rencontrent des difficultés importantes dans leur vie quotidienne, notamment en termes de mobilité
-  **  La canne d’aveugle ne permet de détecter que les obstacles situés entre le sol et la hauteur de la hanche de l’utilisateur;
-  **  Le mouvement pendulaire effectué par la canne combinée au déplacement de la personne mal voyante induit un balayage limité à la largeur du corps avec des zones inexplorées.
+  *  La canne d’aveugle ne permet de détecter que les obstacles situés entre le sol et la hauteur de la hanche de l’utilisateur;
+  *  Le mouvement pendulaire effectué par la canne combinée au déplacement de la personne mal voyante induit un balayage limité à la largeur du corps avec des zones inexplorées.
 Ce défi peut réduire leur indépendance et leur qualité de vie. De plus, les solutions existantes sont souvent coûteuses, ce qui limite leur accessibilité.
   
 * Fréquence du problème : En 2022, selon l'Organisation mondiale de la santé, environ 2,2 milliards de personnes dans le monde souffrent de déficience visuelle. Selon l’AIPC, plus de 1,1 milliard de personnes vivaient avec une perte de vision en 2020.
