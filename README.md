@@ -5,7 +5,8 @@ Smart-Cane : Canne électronique intelligente et abordable pour les personnes av
 Projet final de fin de formation pour l'obtention du diplome de licence professionnelle option Génie Télécoms et TIC
 
 <!-- visuel -->
-![banner]([(/images/VISUEL.jpg))
+![banner](../images/VISUEL.jpg)
+![Schéma de câblage](../images/electronics_schema.png)
 
 
 
