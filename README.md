@@ -38,12 +38,12 @@ Ce défi peut réduire leur indépendance et leur qualité de vie. De plus, les 
 
 
 
-## How is it used?
+## Comment utilisé Smart-Cane
 
 * Principe de fonctionnement: Smart-Cane est une canne blanche intelligente conçut pour faciliter la mobilité des personnes atteintes de déficience visuelle.
   Comme fonctionnalités, cette canne permettra de :
-  • Détecter les obstacles (devant, haut, bas) et signaler leur présence par des vibrations ;
-  • Détecter la présence d’eau sur le sol (flaques d’eau) et la signaler par des bips sonores.
+  * Détecter les obstacles (devant, haut, bas) et signaler leur présence par des vibrations ;
+  * Détecter la présence d’eau sur le sol (flaques d’eau) et la signaler par des bips sonores.
 L’autonomie de la canne, sera assurée par des piles rechargeables. Ces piles pourront être rechargées par le secteur, un panneau solaire, ou un power bank. Le dispositif sera allumé et éteint à l’aide d’un interrupteur. Une LED informera sur l’état allumé ou éteint de la canne suivi d’un bip sonore lors de l’allumage de la canne. Un signal sonore permettra de signaler l’état de charge (déchargé) des piles.
 
 * Utilisateurs : Les principales personnes concernées par cette solution sont les aveugles et les malvoyants. Cependant, leur entourage, comme les membres de la famille, les amis et les soignants, bénéficieront également de l’autonomie accrue des utilisateurs.
