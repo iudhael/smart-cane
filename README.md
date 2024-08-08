@@ -21,7 +21,7 @@ La canne blanche est un accessoire indispensable pour aider les personnes non vo
 ### Anglais
 The white cane is an indispensable accessory to help blind people avoid obstacles. However, it is often limited in its ability to detect obstacles based on their position. To overcome this limitation, we have designed and produced a white cane that incorporates sensors to make it more intelligent in terms of detection. The smart cane system features a microcontroller that not only drives ultrasonic sensors for obstacle detection, but also a sensor for detecting the presence of water. It is powered by a rechargeable mains supply or a simple power bank. The system also incorporates actuators such as buzzers and vibrating mini-motors to provide real-time interaction between the user and his cane.
 
-## Background
+## Context
 
 * Problème à résoudre : Les personnes aveugles ou malvoyantes rencontrent des difficultés importantes dans leur vie quotidienne, notamment en termes de mobilité
   *  La canne d’aveugle ne permet de détecter que les obstacles situés entre le sol et la hauteur de la hanche de l’utilisateur;
@@ -66,8 +66,9 @@ images
 ![banner](/images/differentespartie.png)
 
 
-## What next?
-### Evolution of the project:
+
+## Quelles sont les prochaines étapes ?
+### Évolution du projet :
 
 *  Mettre en place une start-up autour de Smart-Cane;
 
