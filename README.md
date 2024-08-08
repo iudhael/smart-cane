@@ -5,7 +5,7 @@ Smart-Cane : Canne électronique intelligente et abordable pour les personnes av
 Projet final de fin de formation pour l'obtention du diplome de licence professionnelle option Génie Télécoms et TIC
 
 <!-- visuel -->
-![banner](/images/VISUEL.jpg)
+![banner]([/images](https://github.com/iudhael/smart-cane/tree/main/images/VISUEL.jpg)
 
 
 
@@ -61,10 +61,10 @@ de la poignée ;
 quelques centimètres au-dessus de l’embout ;
   - L’embout : il abrite le détecteur de présence d’eau.
 
-images
-![description](/images/differentespartie.png)
 
-[![démo](Demo.mp4)
+![description](https://github.com/iudhael/smart-cane/tree/main/images/differentespartie.png)
+
+[!Demo.mp4](https://github.com/iudhael/smart-cane/blob/main/Demo.mp4)
 
 
 
