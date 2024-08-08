@@ -48,7 +48,6 @@ L’autonomie de la canne, sera assurée par des piles rechargeables. Ces piles 
 
 * Utilisateurs : Les principales personnes concernées par cette solution sont les aveugles et les malvoyants. Cependant, leur entourage, comme les membres de la famille, les amis et les soignants, bénéficieront également de l’autonomie accrue des utilisateurs.
 
-## Challenges
 
 ## Résultats obtenus
 ### Présentation générale de la canne réalisée
