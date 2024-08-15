@@ -76,15 +76,17 @@ quelques centimètres au-dessus de l’embout ;
   - L’embout : il abrite le détecteur de présence d’eau.
 
 
-![description](https://github.com/iudhael/smart-cane/blob/main/images/differentespartie.png)
+<--![description](https://github.com/iudhael/smart-cane/blob/main/images/differentespartie.png)
 
 
-https://github.com/iudhael/smart-cane/blob/main/Demo.mp4
+<!--https://github.com/iudhael/smart-cane/blob/main/Demo.mp4-->
 
 
 
 
 ## Quelles sont les prochaines étapes ?
+La prochaine étape immédiate du projet consiste à créer un nouveau prototype de la canne intelligente, alliant esthétique améliorée et performance accrue.
+
 ### Évolution du projet :
 
 *  Mettre en place une start-up autour de Smart-Cane;
