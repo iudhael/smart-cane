@@ -50,6 +50,18 @@ L’autonomie de la canne, sera assurée par des piles rechargeables. Ces piles 
 
 
 ## Résultats obtenus
+![boitier principal](https://github.com/iudhael/smart-cane/blob/main/images/boitier_principal.jpg)
+![boitier secondairel](https://github.com/iudhael/smart-cane/blob/main/images/boitier_secondaire.jpg)
+![embout](https://github.com/iudhael/smart-cane/blob/main/images/embout.jpg)
+![poignée](https://github.com/iudhael/smart-cane/blob/main/images/poigne.jpg)
+![soudure](https://github.com/iudhael/smart-cane/blob/main/images/soudure.jpg)
+![canne](https://github.com/iudhael/smart-cane/blob/main/images/canne.jpg)
+
+![imprssion 3d d'un boitier](https://github.com/iudhael/smart-cane/blob/main/images/modelisation2.jpg)
+
+![boitier de recharge](https://github.com/iudhael/smart-cane/blob/main/images/Im5.jpg)
+
+
 ### Présentation générale de la canne réalisée
 La figure présente en détails les différentes parties de la canne intelligente réalisée. Cette canne intelligente réalisée présente cinq différentes parties à savoir :
   - La poignée : est la partie de la canne que le non-voyant saisit avec la main
@@ -63,16 +75,7 @@ quelques centimètres au-dessus de l’embout ;
 
 
 ![description](https://github.com/iudhael/smart-cane/blob/main/images/differentespartie.png)
-![boitier principal](https://github.com/iudhael/smart-cane/blob/main/images/boitier_principal.jpg)
-![boitier secondairel](https://github.com/iudhael/smart-cane/blob/main/images/boitier_secondaire.jpg)
-![embout](https://github.com/iudhael/smart-cane/blob/main/images/embout.jpg)
-![poignée](https://github.com/iudhael/smart-cane/blob/main/images/poigne.jpg)
-![soudure](https://github.com/iudhael/smart-cane/blob/main/images/soudure.jpg)
-![canne](https://github.com/iudhael/smart-cane/blob/main/images/canne.jpg)
 
-![imprssion 3d d'un boitier](https://github.com/iudhael/smart-cane/blob/main/images/modelisation2.jpg)
-
-![boitier de recharge](https://github.com/iudhael/smart-cane/blob/main/images/Im5.jpg)
 
 [!Demo.mp4](https://github.com/iudhael/smart-cane/blob/main/Demo.mp4)
 
