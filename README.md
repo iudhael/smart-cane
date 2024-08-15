@@ -4,6 +4,8 @@ Smart-Cane : Canne électronique intelligente et abordable pour les personnes av
 
 Projet final de fin de formation pour l'obtention du diplome de licence professionnelle option Génie Télécoms et TIC
 
+Réalisé par : ADIKPETO Mahoukpè Judicaël & HAÏKOU Souvenire Gloria
+
 <!-- visuel -->
 ![banner](https://github.com/iudhael/smart-cane/blob/main/images/VISUEL.jpg)
 
