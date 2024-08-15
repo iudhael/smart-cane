@@ -5,7 +5,7 @@ Smart-Cane : Canne électronique intelligente et abordable pour les personnes av
 Projet final de fin de formation pour l'obtention du diplome de licence professionnelle option Génie Télécoms et TIC
 
 <!-- visuel -->
-![banner](https://github.com/iudhael/smart-cane/tree/main/images/VISUEL.jpg)
+![banner](https://github.com/iudhael/smart-cane/blob/main/images/VISUEL.jpg)
 
 
 
@@ -62,7 +62,17 @@ quelques centimètres au-dessus de l’embout ;
   - L’embout : il abrite le détecteur de présence d’eau.
 
 
-![description](https://github.com/iudhael/smart-cane/tree/main/images/differentespartie.png)
+![description](https://github.com/iudhael/smart-cane/blob/main/images/differentespartie.png)
+![boitier principal](https://github.com/iudhael/smart-cane/blob/main/images/boitier_principal.jpg)
+![boitier secondairel](https://github.com/iudhael/smart-cane/blob/main/images/boitier_secondaire.jpg)
+![embout](https://github.com/iudhael/smart-cane/blob/main/images/embout.jpg)
+![poignée](https://github.com/iudhael/smart-cane/blob/main/images/poigne.jpg)
+![soudure](https://github.com/iudhael/smart-cane/blob/main/images/soudure.jpg)
+![canne](https://github.com/iudhael/smart-cane/blob/main/images/canne.jpg)
+
+![imprssion 3d d'un boitier](https://github.com/iudhael/smart-cane/blob/main/images/modelisation2.jpg)
+
+![boitier de recharge](https://github.com/iudhael/smart-cane/blob/main/images/Im5.jpg)
 
 [!Demo.mp4](https://github.com/iudhael/smart-cane/blob/main/Demo.mp4)
 
