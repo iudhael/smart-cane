@@ -76,7 +76,7 @@ quelques centimètres au-dessus de l’embout ;
   - L’embout : il abrite le détecteur de présence d’eau.
 
 
-<--![description](https://github.com/iudhael/smart-cane/blob/main/images/differentespartie.png)
+![description](https://github.com/iudhael/smart-cane/blob/main/images/differentespartie.png)
 
 
 <!--https://github.com/iudhael/smart-cane/blob/main/Demo.mp4-->
