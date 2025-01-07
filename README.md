@@ -80,6 +80,10 @@ quelques centimètres au-dessus de l’embout ;
 ![description](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/differentespartie.png)
 
 ![description](https://raw.githubusercontent.com/iudhael/smart-cane/main/Demo.mp4)
+<video controls width="640" height="360">
+  <source src="https://raw.githubusercontent.com/iudhael/smart-cane/main/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <!--https://github.com/iudhael/smart-cane/blob/main/Demo.mp4-->
 
