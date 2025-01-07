@@ -82,7 +82,7 @@ quelques centimètres au-dessus de l’embout ;
 https://github.com/user-attachments/assets/ebdb835a-13ce-4384-87f1-17f8a31a46b1
 
 <video controls   width="640" height="360">
-  <source src="[Demo.mp4](https://github.com/iudhael/smart-cane/main/Demo.mp4)" type="video/mp4">
+  <source src="[Demo.mp4](https://raw.githubusercontent.com/iudhael/smart-cane/main/Demo.mp4)" type="video/mp4">
   Sorry, your browser doesn't support embedded videos.
 </video>
 
@@ -90,7 +90,7 @@ https://github.com/user-attachments/assets/ebdb835a-13ce-4384-87f1-17f8a31a46b1
 ## tt
 
 <video controls   width="640" height="360">
-  <source src="![Demo.mp4](https://github.com/iudhael/smart-cane/main/Demo.mp4)" type="video/mp4">
+  <source src="![Demo.mp4](https://raw.githubusercontent.com/iudhael/smart-cane/main/Demo.mp4)" type="video/mp4">
   Sorry, your browser doesn't support embedded videos.
 </video>
 
