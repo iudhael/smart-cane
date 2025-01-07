@@ -11,7 +11,6 @@ Réalisé par : ADIKPETO Mahoukpè Judicaël & HAÏKOU Souvenire Gloria
 
 
 
-
 # Titre du projet
 
 Smart-Cane
@@ -80,7 +79,7 @@ quelques centimètres au-dessus de l’embout ;
 ![description](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/differentespartie.png)
 
 
-
+## Démo
 https://github.com/user-attachments/assets/ebdb835a-13ce-4384-87f1-17f8a31a46b1
 
 
