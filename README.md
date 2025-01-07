@@ -10,7 +10,6 @@ Réalisé par : ADIKPETO Mahoukpè Judicaël & HAÏKOU Souvenire Gloria
 ![ban](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/VISUEL.jpg)
 
 
-
 # Titre du projet
 
 Smart-Cane
