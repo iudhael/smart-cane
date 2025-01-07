@@ -81,34 +81,6 @@ quelques centimètres au-dessus de l’embout ;
 ## Démo
 https://github.com/user-attachments/assets/ebdb835a-13ce-4384-87f1-17f8a31a46b1
 
-<video controls >
-  <source src="[Demo.mp4](https://raw.githubusercontent.com/iudhael/smart-cane/main/Demo.mp4)" type="video/mp4">
-  Sorry, your browser doesn't support embedded videos.
-</video>
-
-
-## tt
-
-<video controls>
-  <source src="![Demo.mp4](https://raw.githubusercontent.com/iudhael/smart-cane/main/Demo.mp4)" type="video/mp4">
-  Sorry, your browser doesn't support embedded videos.
-</video>
-
-## yy 
-<video controls >
-  <source src="[Demo.mp4](https://raw.githubusercontent.com/iudhael/smart-cane/main/Demo.mp4)" type="video/mp4">
-  Sorry, your browser doesn't support embedded videos.
-</video>
-
-
-## tt
-
-<video controls>
-  <source src="![Demo.mp4](https://raw.githubusercontent.com/iudhael/smart-cane/main/Demo.mp4)" type="video/mp4">
-  Sorry, your browser doesn't support embedded videos.
-</video>
-
-
 
 
 ## Quelles sont les prochaines étapes ?
