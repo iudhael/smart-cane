@@ -79,7 +79,7 @@ quelques centimètres au-dessus de l’embout ;
 
 ![description](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/differentespartie.png)
 
-![description](https://raw.githubusercontent.com/iudhael/smart-cane/blob/main/Demo.mp4)
+![description](https://raw.githubusercontent.com/iudhael/smart-cane/main/Demo.mp4)
 
 <!--https://github.com/iudhael/smart-cane/blob/main/Demo.mp4-->
 
