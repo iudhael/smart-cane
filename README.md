@@ -7,7 +7,7 @@ Projet final de fin de formation pour l'obtention du diplome de licence professi
 Réalisé par : ADIKPETO Mahoukpè Judicaël & HAÏKOU Souvenire Gloria
 
 <!-- visuel -->
-![banner](images/VISUEL.jpg)
+![banner](https://github.com/iudhael/smart-cane/blob/mainimages/VISUEL.jpg)
 
 
 
