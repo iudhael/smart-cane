@@ -8,7 +8,7 @@ Réalisé par : ADIKPETO Mahoukpè Judicaël & HAÏKOU Souvenire Gloria
 
 <!-- visuel ![banner](https://github.com/iudhael/smart-cane/blob/main/images/VISUEL.jpg)-->
 ![ban](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/VISUEL.jpg)
-![ban](https://github.com/iudhael/smart-cane/main/images/VISUEL.jpg)
+
 
 
 
