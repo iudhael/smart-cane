@@ -81,7 +81,7 @@ quelques centimètres au-dessus de l’embout ;
 
 
 
-https://github.com/user-attachments/assets/ebdb835a-13ce-4384-87f1-17f8a31a46b1
+![Démo](https://github.com/user-attachments/assets/ebdb835a-13ce-4384-87f1-17f8a31a46b1)
 
 <!--https://github.com/iudhael/smart-cane/blob/main/Demo.mp4-->
 
