@@ -53,16 +53,16 @@ L’autonomie de la canne, sera assurée par des piles rechargeables. Ces piles 
 
 
 ## Résultats obtenus
-![boitier principal](https://github.com/iudhael/smart-cane/blob/main/images/boitier_principal.jpg)
-![boitier secondairel](https://github.com/iudhael/smart-cane/blob/main/images/boitier_secondaire.jpg)
-![embout](https://github.com/iudhael/smart-cane/blob/main/images/embout.jpg)
-![poignée](https://github.com/iudhael/smart-cane/blob/main/images/poigne.jpg)
-![soudure](https://github.com/iudhael/smart-cane/blob/main/images/soudure.jpg)
-![canne](https://github.com/iudhael/smart-cane/blob/main/images/canne.jpg)
+![boitier principal](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/boitier_principal.jpg)
+![boitier secondairel](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/boitier_secondaire.jpg)
+![embout](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/embout.jpg)
+![poignée](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/poigne.jpg)
+![soudure](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/soudure.jpg)
+![canne](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/canne.jpg)
 
-![imprssion 3d d'un boitier](https://github.com/iudhael/smart-cane/blob/main/images/modelisation2.jpg)
+![imprssion 3d d'un boitier](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/modelisation2.jpg)
 
-![boitier de recharge](https://github.com/iudhael/smart-cane/blob/main/images/Im5.jpg)
+![boitier de recharge](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/Im5.jpg)
 
 
 ### Présentation générale de la canne réalisée
@@ -77,7 +77,7 @@ quelques centimètres au-dessus de l’embout ;
   - L’embout : il abrite le détecteur de présence d’eau.
 
 
-![description](https://github.com/iudhael/smart-cane/blob/main/images/differentespartie.png)
+![description](https://raw.githubusercontent.com/iudhael/smart-cane/blob/main/images/differentespartie.png)
 
 
 <!--https://github.com/iudhael/smart-cane/blob/main/Demo.mp4-->
