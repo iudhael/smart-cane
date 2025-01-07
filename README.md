@@ -98,6 +98,12 @@ https://github.com/user-attachments/assets/ebdb835a-13ce-4384-87f1-17f8a31a46b1
 
 ![Demo.mp4](https://github.com/user-attachments/assets/ebdb835a-13ce-4384-87f1-17f8a31a46b1)
 
+## test
+![Demo.mp4](raw.githubusercontent.com/user-attachments/assets/ebdb835a-13ce-4384-87f1-17f8a31a46b1)
+
+
+
+
 
 ## Quelles sont les prochaines étapes ?
 La prochaine étape immédiate du projet consiste à créer un nouveau prototype de la canne intelligente, alliant esthétique améliorée et performance accrue.
