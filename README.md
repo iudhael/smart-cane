@@ -99,7 +99,9 @@ https://github.com/user-attachments/assets/ebdb835a-13ce-4384-87f1-17f8a31a46b1
 ![Demo.mp4](https://github.com/iudhael/smart-cane/main/Demo.mp4)
 
 ## test
-![Demo.mp4](raw.githubusercontent.com/user-attachments/assets/ebdb835a-13ce-4384-87f1-17f8a31a46b1)
+![Demo.mp4](https://raw.githubusercontent.com/user-attachments/assets/ebdb835a-13ce-4384-87f1-17f8a31a46b1)
+![Demo.mp4](https://raw.githubusercontent.com/iudhael/smart-cane/main/Demo.mp4)
+[Demo.mp4](https://raw.githubusercontent.com/iudhael/smart-cane/main/Demo.mp4)
 
 
 
