@@ -81,6 +81,7 @@ quelques centimètres au-dessus de l’embout ;
 ## Démo
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1118565543?h=1317e8689d" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
+[Voir la vidéo]([https://www.youtube.com/watch?v=ID_DE_TA_VIDEO](https://player.vimeo.com/video/1118565543?h=1317e8689d))
 
 
 ## Quelles sont les prochaines étapes ?
