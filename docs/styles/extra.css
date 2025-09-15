@@ -1,0 +1,4 @@
+/* Justification du texte dans tout le contenu */
+.md-typeset p {
+  text-align: justify;
+}

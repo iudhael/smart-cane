@@ -1,0 +1,71 @@
+site_name: smart-cane
+site_url: https://adikpetomjudicael.org/smart-cane
+theme:
+  name: material
+  logo: assets/logo-chien-daveugle.png
+  favicon: assets/logo-chien-daveugle.png
+  features:
+    - navigation.footer
+    - navigation.tabs   # active le menu horizontal en haut
+    - navigation.tabs.sticky  # garde le menu visible quand tu descends
+    - navigation.sections
+
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Accueil: 
+    - index.md
+    - résumé.md
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/gitlab 
+      link: https://gitlab.com/iudhael
+    
+    - icon: fontawesome/brands/github 
+      link: https://github.com/iudhael
+
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/in/judicael-mahoukpe-adikpeto/
+
+    - icon: fontawesome/brands/instagram 
+      link: https://www.instagram.com/iudhaeladikpeto/
+        
+markdown_extensions:
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+
+
+extra_css:
+  - styles/extra.css
+copyright: Copyright &copy; 2023 ADIKPETO Mahoukpè Judicaël. Tous droits réservés.

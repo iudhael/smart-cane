@@ -1,0 +1,90 @@
+# SMART-CANE
+
+Smart-Cane : Canne électronique intelligente et abordable pour les personnes aveugles ou malvoyantes
+
+Projet final de fin de formation pour l'obtention du diplome de licence professionnelle option Génie Télécoms et TIC
+
+Réalisé par : ADIKPETO Mahoukpè Judicaël & HAÏKOU Souvenire Gloria
+
+<!-- visuel ![banner](https://github.com/iudhael/smart-cane/blob/main/images/VISUEL.jpg)--> 
+![ban](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/VISUEL.jpg)
+
+
+## Context
+
+* Problème à résoudre : Les personnes aveugles ou malvoyantes rencontrent des difficultés importantes dans leur vie quotidienne, notamment en termes de mobilité
+  *  La canne d’aveugle ne permet de détecter que les obstacles situés entre le sol et la hauteur de la hanche de l’utilisateur;
+  *  Le mouvement pendulaire effectué par la canne combinée au déplacement de la personne mal voyante induit un balayage limité à la largeur du corps avec des zones inexplorées.
+Ce défi peut réduire leur indépendance et leur qualité de vie. De plus, les solutions existantes sont souvent coûteuses, ce qui limite leur accessibilité.
+  
+* Fréquence du problème : En 2022, selon l'Organisation mondiale de la santé, environ 2,2 milliards de personnes dans le monde souffrent de déficience visuelle. Selon l’AIPC, plus de 1,1 milliard de personnes vivaient avec une perte de vision en 2020.
+  
+* Motivation personnelle : Notre motivation personnelle  viens de notre volonté à aider ces personnes afin qu’elles aient les mêmes opportunités que nous.
+
+  
+* Importance du sujet : Ce sujet est crucial car il touche à la dignité humaine et à l'égalité d'accès aux opportunités. En fournissant des outils adaptés à un coût réduit, nous pouvons aider les personnes aveugles ou malvoyantes à vivre une vie plus indépendante et épanouie.
+
+
+
+
+## Comment utilisé Smart-Cane
+
+* Principe de fonctionnement: Smart-Cane est une canne blanche intelligente conçut pour faciliter la mobilité des personnes atteintes de déficience visuelle.
+  Comme fonctionnalités, cette canne permettra de :
+  * Détecter les obstacles (devant, haut, bas) et signaler leur présence par des vibrations ;
+  * Détecter la présence d’eau sur le sol (flaques d’eau) et la signaler par des bips sonores.
+L’autonomie de la canne, sera assurée par des piles rechargeables. Ces piles pourront être rechargées par le secteur, un panneau solaire, ou un power bank. Le dispositif sera allumé et éteint à l’aide d’un interrupteur. Une LED informera sur l’état allumé ou éteint de la canne suivi d’un bip sonore lors de l’allumage de la canne. Un signal sonore permettra de signaler l’état de charge (déchargé) des piles.
+
+* Utilisateurs : Les principales personnes concernées par cette solution sont les aveugles et les malvoyants. Cependant, leur entourage, comme les membres de la famille, les amis et les soignants, bénéficieront également de l’autonomie accrue des utilisateurs.
+
+
+## Résultats obtenus
+![boitier principal](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/boitier_principal.jpg)
+![boitier secondairel](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/boitier_secondaire.jpg)
+![embout](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/embout.jpg)
+![poignée](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/poigne.jpg)
+![soudure](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/soudure.jpg)
+![canne](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/canne.jpg)
+
+![imprssion 3d d'un boitier](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/modelisation2.jpg)
+
+![boitier de recharge](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/Im5.jpg)
+
+
+### Présentation générale de la canne réalisée
+La figure présente en détails les différentes parties de la canne intelligente réalisée. Cette canne intelligente réalisée présente cinq différentes parties à savoir :
+  - La poignée : est la partie de la canne que le non-voyant saisit avec la main
+lors de l’utilisation de la canne ;
+  - Le boitier principal :il est situé à quelques centimètres sur la tige en dessous
+de la poignée ;
+  - La tige : elle s’emboite avec la poignée ;
+  - Le boitier secondaire : il est plus petit que le boitier principal et est situé à
+quelques centimètres au-dessus de l’embout ;
+  - L’embout : il abrite le détecteur de présence d’eau.
+
+
+![description](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/differentespartie.png)
+
+
+## Démo
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1118565543?h=1317e8689d" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+
+
+## Quelles sont les prochaines étapes ?
+La prochaine étape immédiate du projet consiste à créer un nouveau prototype de la canne intelligente, alliant esthétique améliorée et performance accrue.
+
+### Évolution du projet :
+
+*  Mettre en place une start-up autour de Smart-Cane;
+
+* Amélioration technologique : intégrez des capteurs plus performent pour améliorer la précision et la fiabilité;
+  
+* Réduction des coûts : optimiser les processus de fabrication pour rendre l'appareil plus abordable;
+  
+* Extension des fonctionnalités : ajoutez des fonctionnalités telles que l'intégration d'un assistant vocal multilingue pouvant communiquer dans plusieurs langues locales pour faciliter la communication et l'utilisation par une diversité d'utilisateurs (l’assistant vocal pourra  indiquer la présence d’obstacle ou d’eau aux non-voyants, l’heure, la présence ou l’absence de lumière dans une pièce, la position géographique, ou l’itinéraire d’un lieu, en se basant sur des mots clés prononcés par le non-voyantà) ,l'incorporation d'un système de localisation à distance ;
+  
+* Collaboration : Établir des partenariats avec des associations et des organismes de santé pour tester et améliorer le dispositif en fonction des retours des utilisateurs;
+
+Smart-Cane vise à transformer la vie des personnes aveugles et malvoyantes en leur offrant plus d'indépendance et une meilleure sécurité. Smart-Cane a été pensée pour pallier aux limitations de la canne blanche traditionnelle des non-voyants. Elle vient, grâce à l’intégration de plusieurs capteurs, faciliter aux handicapés visuels, la détection d’obstacles mobiles et immobiles sur plusieurs plans (détection d’obstacle en hauteur, détection d’obstacle devant, détection d’obstacle en bas), mais aussi la détection de présence d’eau. Ainsi, notre dispositif intègre toutes ces fonctionnalités pour faciliter le déplacement en toute sécurité des personnes atteintes de handicap visuel. Ce prototype de canne intelligente que nous avons mis en place présente l’avantage d’être facilement accessible de par son coût réduit.
+
