@@ -78,7 +78,8 @@ quelques centimètres au-dessus de l’embout ;
 ![description](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/differentespartie.png)
 
 
-## Démo
+## Démo 
+[![Regarder la vidéo](https://vumbnail.com/1120996376.jpg)](https://vimeo.com/1120996376)
 [![Regarder la vidéo](https://vimeo.com/1120996376.jpg)](https://vimeo.com/1120996376?fl=ip&fe=ec)
 
 ## Quelles sont les prochaines étapes ?
