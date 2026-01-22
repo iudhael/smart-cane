@@ -79,7 +79,7 @@ quelques centimètres au-dessus de l’embout ;
 
 
 ## Démo
-[![Regarder la vidéo](https://vumbnail.com/1118565543.jpg)](https://vimeo.com/1118565543)
+[![Regarder la vidéo](https://vimeo.com/1120996376?fl=ip&fe=ec.jpg)](https://vimeo.com/1120996376?fl=ip&fe=ec)
 
 ## Quelles sont les prochaines étapes ?
 La prochaine étape immédiate du projet consiste à créer un nouveau prototype de la canne intelligente, alliant esthétique améliorée et performance accrue.
