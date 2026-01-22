@@ -68,7 +68,7 @@ quelques centimètres au-dessus de l’embout ;
 
 ## Démo
 
-<iframe title="vimeo-player" src="https://vimeo.com/1120996376" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/1120996376?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Demo"></iframe>
 
 
 
