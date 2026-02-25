@@ -28,7 +28,7 @@ Ce défi peut réduire leur indépendance et leur qualité de vie. De plus, les 
 
 | Logo | Nom du logiciel |
 |------|------------------|
-| <img src="[images/ros2.png](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/boitier_principal.jpg)" width="60"> | ROS 2 Humble |
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/boitier_principal.jpg" width="60"> | ROS 2 Humble |
 | <img src="images/gns3.png" width="60"> | GNS3 |
 | <img src="images/matlab.png" width="60"> | MATLAB |
 | <img src="images/kicad.png" width="60"> | KiCad |
