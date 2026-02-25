@@ -29,7 +29,7 @@ Ce défi peut réduire leur indépendance et leur qualité de vie. De plus, les 
 
 | Logo | Nom du logiciel |
 |--------------------------------------------|-----------------------------------------------------------|
-| ![Arduino IDE](https://github.com/iudhael/smart-cane/main/images/IDE%20arduino.jpeg") | Arduino IDE |
+| ![Arduino IDE](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/IDE%20arduino.jpeg") | Arduino IDE |
 | ![Fusion360](https://github.com/iudhael/smart-cane/main/images/fusion%20360.png") | Fusion360 |
 | ![Fritzing]("https://github.com/iudhael/smart-cane/main/images/fritzing.png") | Fritzing |
 | ![Proteus](https://github.com/iudhael/smart-cane/main/images/proteus.jpeg") | Proteus |
