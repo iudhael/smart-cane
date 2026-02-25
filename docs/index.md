@@ -26,18 +26,19 @@ Ce défi peut réduire leur indépendance et leur qualité de vie. De plus, les 
 
 ## 🖥️ Logiciels utilisés
 
+<div align="center">
 | Logo | Nom du logiciel |
-|------|------------------|
-| <img src="https://github.com/iudhael/smart-cane/blob/main/images/IDE%20arduino.jpeg" width="90"> | Arduino IDE |
-| <img src="https://github.com/iudhael/smart-cane/blob/main/images/fusion%20360.png" width="90"> | Fusion360 |
-| <img src="https://github.com/iudhael/smart-cane/blob/main/images/fritzing.png" width="90"> | Fritzing |
-| <img src="https://github.com/iudhael/smart-cane/blob/main/images/proteus.jpeg" width="90"> | Proteus |
-
+|:----:|:---------------:|
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/IDE%20arduino.jpeg" width="150"> | Arduino IDE |
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/fusion%20360.png" width="150"> | Fusion360 |
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/fritzing.png" width="150"> | Fritzing |
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/proteus.jpeg" width="150"> | Proteus |
+</div>
 ## 🔧 Principaux composants matériels
 
 | Logo | Nom du logiciel |
 |------|------------------|
-| <img src="https://github.com/iudhael/smart-cane/blob/main/images/IDE%20arduino.jpeg" width="90"> | Arduino Uno |
+| <img src="https://github.com/iudhael/smart-cane/blob/main/images/arduino%20uno.jpg" width="90"> | Arduino Uno |
 | <img src="https://github.com/iudhael/smart-cane/blob/main/images/atmega328p.jpg" width="90"> | ATmega328P |
 | <img src="https://github.com/iudhael/smart-cane/blob/main/images/capteurultrason.jpg" width="90"> | Capteur ultrason HC-SR04 |
 | <img src="https://github.com/iudhael/smart-cane/blob/main/images/Interrupteur%20momentan%C3%A9%20%C3%A0%20v%C3%A9rrouillage%20%C3%A0%20bouton-poussoir%20rouge.png" width="90"> | Interrupteur |
