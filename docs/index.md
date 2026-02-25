@@ -38,7 +38,7 @@ Ce défi peut réduire leur indépendance et leur qualité de vie. De plus, les 
 
 | Logo | Nom du logiciel |
 |------|------------------|
-
+| ![Proteus](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/proteus.jpeg) | Proteus |
 | <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/arduino%20uno.jpg" alt="Arduino Uno" width="100"> | Arduino Uno |
 | <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/atmega328p.jpg" alt="ATmega328P" width="100"> | ATmega328P |
 | <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/capteurultrason.jpg" alt="Capteur ultrason HC-SR04" width="100">  | Capteur ultrason HC-SR04 |
