@@ -28,10 +28,32 @@ Ce défi peut réduire leur indépendance et leur qualité de vie. De plus, les 
 
 | Logo | Nom du logiciel |
 |------|------------------|
-| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/boitier_principal.jpg" width="60"> | ROS 2 Humble |
-| <img src="images/gns3.png" width="60"> | GNS3 |
-| <img src="images/matlab.png" width="60"> | MATLAB |
-| <img src="images/kicad.png" width="60"> | KiCad |
+| <img src="https://github.com/iudhael/smart-cane/blob/main/images/IDE%20arduino.jpeg" width="90"> | Arduino IDE |
+| <img src="https://github.com/iudhael/smart-cane/blob/main/images/fusion%20360.png" width="90"> | Fusion360 |
+| <img src="https://github.com/iudhael/smart-cane/blob/main/images/fritzing.png" width="90"> | Fritzing |
+| <img src="https://github.com/iudhael/smart-cane/blob/main/images/proteus.jpeg" width="90"> | Proteus |
+
+## 🔧 Principaux composants matériels
+
+| Logo | Nom du logiciel |
+|------|------------------|
+| <img src="https://github.com/iudhael/smart-cane/blob/main/images/IDE%20arduino.jpeg" width="90"> | Arduino Uno |
+| <img src="https://github.com/iudhael/smart-cane/blob/main/images/atmega328p.jpg" width="90"> | ATmega328P |
+| <img src="https://github.com/iudhael/smart-cane/blob/main/images/capteurultrason.jpg" width="90"> | Capteur ultrason HC-SR04 |
+| <img src="https://github.com/iudhael/smart-cane/blob/main/images/Interrupteur%20momentan%C3%A9%20%C3%A0%20v%C3%A9rrouillage%20%C3%A0%20bouton-poussoir%20rouge.png" width="90"> | Interrupteur |
+| <img src="https://github.com/iudhael/smart-cane/blob/main/images/buzzer.jpg" width="90"> | Buzzer |
+| <img src="https://github.com/iudhael/smart-cane/blob/main/images/moteurvibrant.png" width="90"> | Mini-moteur vibrant |
+| <img src="https://github.com/iudhael/smart-cane/blob/main/images/led.jpg" width="90"> | Led |
+| <img src="https://github.com/iudhael/smart-cane/blob/main/images/18650battery.jpg" width="90"> | Pile rechargeable 18650 |
+| <img src="https://github.com/iudhael/smart-cane/blob/main/images/tp4056-micro-usb-5v.webp" width="90"> | Module TP 4056 |
+
+## Schéma de branchement des composants au microcontrôleur
+Ce schéma montre le branchement des capteurs et actionneurs à la carte Arduino Uno
+![Schéma de branchement des composants au microcontrôleur](https://github.com/iudhael/smart-cane/blob/main/images/schema_fritzing.jpg)
+
+## Schéma de recharge de la batterie
+Ce schéma présente les branchements faits entre les modules TP4056 et les batteries pour la recharge des batteries.
+![Schéma de recharge de la batterie](https://github.com/iudhael/smart-cane/blob/main/images/recharge_pile_fritzing.jpg)
 
 
 ## Comment utilisé Smart-Cane
@@ -74,6 +96,12 @@ quelques centimètres au-dessus de l’embout ;
 
 
 ## Démo
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1168272925?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="352" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Test1canne"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1168273005?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="352" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Test2canne"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1120996376?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Demo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
