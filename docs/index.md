@@ -24,7 +24,14 @@ Ce défi peut réduire leur indépendance et leur qualité de vie. De plus, les 
   
 * Importance du sujet : Ce sujet est crucial car il touche à la dignité humaine et à l'égalité d'accès aux opportunités. En fournissant des outils adaptés à un coût réduit, nous pouvons aider les personnes aveugles ou malvoyantes à vivre une vie plus indépendante et épanouie.
 
+## 🖥️ Logiciels utilisés
 
+| Logo | Nom du logiciel |
+|------|------------------|
+| <img src="[images/ros2.png](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/boitier_principal.jpg)" width="60"> | ROS 2 Humble |
+| <img src="images/gns3.png" width="60"> | GNS3 |
+| <img src="images/matlab.png" width="60"> | MATLAB |
+| <img src="images/kicad.png" width="60"> | KiCad |
 
 
 ## Comment utilisé Smart-Cane
