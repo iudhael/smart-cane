@@ -29,24 +29,24 @@ Ce défi peut réduire leur indépendance et leur qualité de vie. De plus, les 
 
 | Logo | Nom du logiciel |
 |--------------------------------------------|-----------------------------------------------------------|
-| ![Arduino IDE](https://github.com/iudhael/smart-cane/blob/main/images/IDE%20arduino.jpeg") | Arduino IDE |
-| ![Fusion360](https://github.com/iudhael/smart-cane/blob/main/images/fusion%20360.png") | Fusion360 |
-| ![Fritzing]("https://github.com/iudhael/smart-cane/blob/main/images/fritzing.png") | Fritzing |
-| ![Proteus](https://github.com/iudhael/smart-cane/blob/main/images/proteus.jpeg") | Proteus |
+| ![Arduino IDE](https://github.com/iudhael/smart-cane/main/images/IDE%20arduino.jpeg") | Arduino IDE |
+| ![Fusion360](https://github.com/iudhael/smart-cane/main/images/fusion%20360.png") | Fusion360 |
+| ![Fritzing]("https://github.com/iudhael/smart-cane/main/images/fritzing.png") | Fritzing |
+| ![Proteus](https://github.com/iudhael/smart-cane/main/images/proteus.jpeg") | Proteus |
 
 ## 🔧 Principaux composants matériels
 
 | Logo | Nom du logiciel |
 |------|------------------|
-| ![Arduino Uno](https://github.com/iudhael/smart-cane/blob/main/images/arduino%20uno.jpg") | Arduino Uno |
-| ![ATmega328P](https://github.com/iudhael/smart-cane/blob/main/images/atmega328p.jpg") | ATmega328P |
-| ![Capteur ultrason HC-SR04](https://github.com/iudhael/smart-cane/blob/main/images/capteurultrason.jpg")  | Capteur ultrason HC-SR04 |
-| ![Interrupteur](https://github.com/iudhael/smart-cane/blob/main/images/Interrupteur%20momentan%C3%A9%20%C3%A0%20v%C3%A9rrouillage%20%C3%A0%20bouton-poussoir%20rouge.png")  | Interrupteur |
-| ![Buzzer](https://github.com/iudhael/smart-cane/blob/main/images/buzzer.jpg")> | Buzzer |
-| ![Mini-moteur vibrant](https://github.com/iudhael/smart-cane/blob/main/images/moteurvibrant.png")  | Mini-moteur vibrant |
-| ![Led](https://github.com/iudhael/smart-cane/blob/main/images/led.jpg") | Led |
-| ![Pile rechargeable 18650](https://github.com/iudhael/smart-cane/blob/main/images/18650battery.jpg") | Pile rechargeable 18650 |
-| ![Module TP 4056]("https://github.com/iudhael/smart-cane/blob/main/images/tp4056-micro-usb-5v.webp") | Module TP 4056 |
+| ![Arduino Uno](https://github.com/iudhael/smart-cane/main/images/arduino%20uno.jpg") | Arduino Uno |
+| ![ATmega328P](https://github.com/iudhael/smart-cane/main/images/atmega328p.jpg") | ATmega328P |
+| ![Capteur ultrason HC-SR04](https://github.com/iudhael/smart-cane/main/images/capteurultrason.jpg")  | Capteur ultrason HC-SR04 |
+| ![Interrupteur](https://github.com/iudhael/smart-cane/main/images/Interrupteur%20momentan%C3%A9%20%C3%A0%20v%C3%A9rrouillage%20%C3%A0%20bouton-poussoir%20rouge.png")  | Interrupteur |
+| ![Buzzer](https://github.com/iudhael/smart-cane/main/images/buzzer.jpg")> | Buzzer |
+| ![Mini-moteur vibrant](https://github.com/iudhael/smart-cane/main/images/moteurvibrant.png")  | Mini-moteur vibrant |
+| ![Led](https://github.com/iudhael/smart-cane/main/images/led.jpg") | Led |
+| ![Pile rechargeable 18650](https://github.com/iudhael/smart-cane/main/images/18650battery.jpg") | Pile rechargeable 18650 |
+| ![Module TP 4056]("https://github.com/iudhael/smart-cane/main/images/tp4056-micro-usb-5v.webp") | Module TP 4056 |
 
 ## Schéma de branchement des composants au microcontrôleur
 Ce schéma montre le branchement des capteurs et actionneurs à la carte Arduino Uno
