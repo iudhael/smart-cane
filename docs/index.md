@@ -38,15 +38,15 @@ Ce défi peut réduire leur indépendance et leur qualité de vie. De plus, les 
 
 | Logo | Nom du logiciel |
 |------|------------------|
-| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/arduino%20uno.jpg" alt="Arduino Uno" width="100"> | Arduino Uno |
-| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/atmega328p.jpg" alt="ATmega328P" width="100"> | ATmega328P |
-| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/capteurultrason.jpg" alt="Capteur ultrason HC-SR04" width="100">  | Capteur ultrason HC-SR04 |
-| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/Interrupteur%20momentan%C3%A9%20%C3%A0%20v%C3%A9rrouillage%20%C3%A0%20bouton-poussoir%20rouge.png" alt="Interrupteur" width="100">  | Interrupteur |
-| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/buzzer.jpg" alt="Buzzer" width="100"> | Buzzer |
-| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/moteurvibrant.png" alt=" Mini-moteur vibrant" width="100">  | Mini-moteur vibrant |
-| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/led.jpg" alt="Led" width="100"> | Led |
-| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/18650battery.jpg" alt="Pile rechargeable 18650" width="100"> | Pile rechargeable 18650 |
-| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/tp4056-micro-usb-5v.webp" alt="Module TP 4056" width="100"> | Module TP 4056 |
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/arduino%20uno.jpg" alt="Arduino Uno" width="200"> | Arduino Uno |
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/atmega328p.jpg" alt="ATmega328P" width="200"> | ATmega328P |
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/capteurultrason.jpg" alt="Capteur ultrason HC-SR04" width="200">  | Capteur ultrason HC-SR04 |
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/Interrupteur%20momentan%C3%A9%20%C3%A0%20v%C3%A9rrouillage%20%C3%A0%20bouton-poussoir%20rouge.png" alt="Interrupteur" width="200">  | Interrupteur |
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/buzzer.jpg" alt="Buzzer" width="200"> | Buzzer |
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/moteurvibrant.png" alt=" Mini-moteur vibrant" width="200">  | Mini-moteur vibrant |
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/led.jpg" alt="Led" width="200"> | Led |
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/18650battery.jpg" alt="Pile rechargeable 18650" width="200"> | Pile rechargeable 18650 |
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/tp4056-micro-usb-5v.webp" alt="Module TP 4056" width="200"> | Module TP 4056 |
 
 ## Schéma de branchement des composants au microcontrôleur
 Ce schéma montre le branchement des capteurs et actionneurs à la carte Arduino Uno
