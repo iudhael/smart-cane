@@ -38,11 +38,12 @@ Ce défi peut réduire leur indépendance et leur qualité de vie. De plus, les 
 
 | Logo | Nom du logiciel |
 |------|------------------|
+| <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/atmega328p.jpg" width="100"> | Arduino Uno |
 | ![Arduino Uno](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/arduino%20uno.jpg) | Arduino Uno |
 | ![ATmega328P](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/atmega328p.jpg) | ATmega328P |
 | ![Capteur ultrason HC-SR04](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/capteurultrason.jpg)  | Capteur ultrason HC-SR04 |
 | ![Interrupteur](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/Interrupteur%20momentan%C3%A9%20%C3%A0%20v%C3%A9rrouillage%20%C3%A0%20bouton-poussoir%20rouge.png)  | Interrupteur |
-| ![Buzzer](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/buzzer.jpg)> | Buzzer |
+| ![Buzzer](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/buzzer.jpg) | Buzzer |
 | ![Mini-moteur vibrant](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/moteurvibrant.png)  | Mini-moteur vibrant |
 | ![Led](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/led.jpg) | Led |
 | ![Pile rechargeable 18650](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/18650battery.jpg) | Pile rechargeable 18650 |
