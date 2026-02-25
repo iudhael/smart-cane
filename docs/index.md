@@ -26,17 +26,17 @@ Ce défi peut réduire leur indépendance et leur qualité de vie. De plus, les 
 
 ## 🖥️ Logiciels utilisés
 
-
+<div align="center">
 | Logo | Nom du logiciel |
 |--------------------------------------------|-----------------------------------------------------------|
 | ![Arduino IDE](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/IDE%20arduino.jpeg) | Arduino IDE |
 | ![Fusion360](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/fusion%20360.png) | Fusion360 |
 | ![Fritzing](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/fritzing.png) | Fritzing |
 | ![Proteus](https://raw.githubusercontent.com/iudhael/smart-cane/main/images/proteus.jpeg) | Proteus |
-
+</div>
 ## 🔧 Principaux composants matériels
 
-| Logo | Nom du logiciel |
+| Image | Nom du logiciel |
 |------|------------------|
 | <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/arduino%20uno.jpg" alt="Arduino Uno" width="200"> | Arduino Uno |
 | <img src="https://raw.githubusercontent.com/iudhael/smart-cane/main/images/atmega328p.jpg" alt="ATmega328P" width="200"> | ATmega328P |
